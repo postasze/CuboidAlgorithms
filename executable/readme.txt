@@ -1,0 +1,1 @@
+This executable works on Linux Ubuntu. There can be problems with launching it on Windows, Mac Os and Linux releases different than Ubuntu
